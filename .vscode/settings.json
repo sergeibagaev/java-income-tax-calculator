@@ -1,7 +1,0 @@
-{
-    "code-runner.runInTerminal": true,
-    "java.project.sourcePaths": [
-        "."
-    ],
-    "java.project.referencedLibraries": []
-}
